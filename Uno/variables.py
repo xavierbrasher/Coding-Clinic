@@ -3,6 +3,6 @@ y = "Bar"
 
 print(x, y) 
 
-x = "FOO"
+x = "Bar"
 
 print(x, y) 
